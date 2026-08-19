@@ -8,6 +8,9 @@ You point it at hooks, net receivers, timers, console commands, metatable method
 
 Single file, no dependencies, no globals, admin gated.
 
+![Preview](GCProfiler1.webp)
+![Preview](GCProfiler2.webp)
+
 ---
 
 ## Install
