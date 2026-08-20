@@ -1,4 +1,3 @@
--- lua/autorun/gcprof.lua
 -- measures how much lua garbage each target produces. client only, admins only.
 -- point it at hooks, net receivers, timers, metatables, or any table of functions.
 --
