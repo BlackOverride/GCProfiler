@@ -16,7 +16,7 @@ Single file, no dependencies, no globals, admin gated.
 ## Install
 
 ```
-addons/gcprof/lua/autorun/gcprofiler.lua
+addons/gcprofiler/lua/autorun/gcprofiler.lua
 ```
 
 That's it. It's a client-side autorun file.
